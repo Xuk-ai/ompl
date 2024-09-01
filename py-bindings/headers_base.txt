@@ -31,8 +31,9 @@ src/ompl/base/objectives/MinimaxObjective.h
 src/ompl/base/objectives/MinimizeArrivalTime.h
 src/ompl/base/objectives/MaximizeMinClearanceObjective.h
 src/ompl/base/objectives/MechanicalWorkOptimizationObjective.h
-src/ompl/base/objectives/PathLengthOptimizationObjective.h
 src/ompl/base/objectives/StateCostIntegralObjective.h
+src/ompl/base/objectives/PathLengthOptimizationObjective.h 
+src/ompl/base/objectives/CustomOptimizationObjective.h
 src/ompl/base/Constraint.h
 src/ompl/base/ProblemDefinition.h
 src/ompl/base/PlannerTerminationCondition.h

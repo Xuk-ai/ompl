@@ -1,0 +1,45 @@
+.
+├── bindings_generator.py.in
+├── CMakeLists.txt
+├── generate_bindings.py
+├── headers_base.txt
+├── headers_control.txt
+├── headers_geometric.txt
+├── headers_tools.txt
+├── headers_util.txt
+├── numpy_eigen.cpp
+├── ompl
+│   ├── base
+│   │   ├── _base.so
+│   │   └── __init__.py
+│   ├── bindings_generator.py
+│   ├── control
+│   │   ├── _control.so
+│   │   └── __init__.py
+│   ├── geometric
+│   │   ├── _geometric.so
+│   │   └── __init__.py
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── bindings_generator.cpython-38.pyc
+│   │   └── __init__.cpython-38.pyc
+│   ├── tools
+│   │   ├── __init__.py
+│   │   └── _tools.so
+│   └── util
+│       ├── __init__.py
+│       ├── libompl.so
+│       └── _util.so
+├── ompl_py_base.h
+├── ompl_py_control.h
+├── ompl_py_geometric.h
+├── ompl_py_tools.h
+├── ompl_py_util.h
+├── PRM.SingleThreadSolve.cpp
+├── project_structure.txt
+├── pyproject.toml
+├── py_std_function.hpp
+├── setup.py
+└── stdsize.h
+
+7 directories, 35 files

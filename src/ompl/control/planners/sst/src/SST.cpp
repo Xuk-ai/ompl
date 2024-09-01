@@ -40,6 +40,7 @@
 #include "ompl/base/objectives/MaximizeMinClearanceObjective.h"
 #include "ompl/base/objectives/PathLengthOptimizationObjective.h"
 #include "ompl/base/objectives/MechanicalWorkOptimizationObjective.h"
+#include "ompl/base/objectives/CustomOptimizationObjective.h"
 #include "ompl/tools/config/SelfConfig.h"
 #include <limits>
 

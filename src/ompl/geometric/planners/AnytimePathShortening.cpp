@@ -70,6 +70,8 @@
 #include "ompl/geometric/PathSimplifier.h"
 #include "ompl/tools/config/SelfConfig.h"
 #include "ompl/base/objectives/PathLengthOptimizationObjective.h"
+#include "ompl/base/objectives/CustomOptimizationObjective.h"
+
 #include "ompl/util/String.h"
 
 ompl::geometric::AnytimePathShortening::AnytimePathShortening(const ompl::base::SpaceInformationPtr &si)

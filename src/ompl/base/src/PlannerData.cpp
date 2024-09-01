@@ -39,7 +39,9 @@
 #include "ompl/base/StateStorage.h"
 #include "ompl/base/OptimizationObjective.h"
 #include "ompl/base/objectives/PathLengthOptimizationObjective.h"
+#include "ompl/base/objectives/CustomOptimizationObjective.h"
 #include "ompl/base/ScopedState.h"
+
 
 #include <boost/graph/graphviz.hpp>
 #include <boost/graph/graphml.hpp>
